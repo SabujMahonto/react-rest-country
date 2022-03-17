@@ -1,0 +1,13 @@
+.menu a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: blue;
+    font-size :22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
+.menu a:hover{
+   color:brown;
+}
+.menu{
+    background-color:rgb(170, 242, 242);
+}
